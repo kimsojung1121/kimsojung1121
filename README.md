@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 <p align="center">
   
-<img src="https://habrastorage.org/getpro/habr/post_images/af1/0e7/a8c/af10e7a8ce8a53e606ae114bd7fdae31.png">
-<img src="https://habrastorage.org/getpro/habr/post_images/5c5/073/308/5c5073308a2a70eb71e9dfbfea43e25c.png">
+<img src="https://habrastorage.org/getpro/habr/post_images/af1/0e7/a8c/af10e7a8ce8a53e606ae114bd7fdae31.png" style="width:600px;">
+<img src="https://habrastorage.org/getpro/habr/post_images/5c5/073/308/5c5073308a2a70eb71e9dfbfea43e25c.png" style="width:600px;">
 
 </p>
 <br>

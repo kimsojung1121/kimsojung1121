@@ -35,3 +35,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/OracleSQL-green?style=plastic-square&logo=Oracle&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-yellow?style=plastic-square&logo=Mysql&logoColor=white">&nbsp&nbsp
 </p>
+
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsojung1121&show_icons=true&theme=flag-india)

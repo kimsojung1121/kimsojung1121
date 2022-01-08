@@ -1,3 +1,8 @@
+<p align="center">
+😄 My BLOG  (https://kimsojung1121.github.io/)
+</p>
+
+
 <!--
 **kimsojung1121/kimsojung1121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

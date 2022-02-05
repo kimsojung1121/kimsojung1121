@@ -1,6 +1,4 @@
-<p align="center">
-😄 My BLOG  (https://kimsojung1121.github.io/)
-</p>
+
 
 
 <!--

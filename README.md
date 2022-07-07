@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-<img src="https://i.chzbgr.com/full/9195088128/hBCF70164/programmer-meme-white-debugging-t-monkeyusercom" style="width:600px;">
+<img src="https://i.chzbgr.com/full/9195088128/hBCF70164/programmer-meme-white-debugging-t-monkeyusercom" style="width:50%;">
 </p>
 <br>
 
